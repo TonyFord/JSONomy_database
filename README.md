@@ -6,7 +6,7 @@ Store and visualize data with very low requirements.
 * create/manage data objects for websites
 
 ### Requirements
-* Server with PHP support
+* server / webspace with PHP support
 
 ### Dependencies
 * jQuery 1.11.2
